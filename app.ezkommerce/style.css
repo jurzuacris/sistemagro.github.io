@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-	Servicios Comerciales v2
+	Servicios Comerciales v3
 	About: A shiny new Blocs website.
 	Author: josue arzate garcia
 	Version: 1.0
@@ -487,6 +487,7 @@ label{
 	font-weight:500;
 	font-size:12px;
 	color:#C50038!important;
+	margin-top:10px;
 	padding:10px 10px 10px 10px;
 	border-width:0px 0px 0px 0px;
 }
@@ -553,7 +554,7 @@ label{
 .p-margin-bottom{
 	margin-bottom:25px;
 }
-.input{
+.field-bloc-no-margin-top{
 	font-size:14px;
 }
 .container-div-bloc-2-margin-top{
@@ -853,6 +854,7 @@ label{
 }
 .h3-margin-top{
 	margin-top:15px;
+	width:82.3%;
 }
 .bloc-27728-margin-top{
 	margin-top:25px;
@@ -966,10 +968,7 @@ label{
 	width:100%;
 	margin-top:25px;
 }
-.field-0-margin-top{
-	margin-top:28px;
-}
-.row-bloc-11-margin-bottom{
+.field-0-margin-to.row-bloc-11-margin-bottom{
 	width:100%;
 }
 .img-bandera-usa-margin-top{
@@ -2336,9 +2335,6 @@ label{
 .h1-52-margin-bottom{
 	margin-bottom:50px;
 }
-.field-0-bloc-12-margin-top{
-	margin-top:48px;
-}
 .label-17-style{
 	width:21.1%;
 }
@@ -3103,8 +3099,8 @@ label{
 	margin-top:-40px;
 }
 .img-121-margin-top{
-	margin-bottom:331px;
-	margin-top:-135px;
+	margin-bottom:350px;
+	margin-top:-140px;
 }
 .img-112-margin-top{
 	margin-top:268px;
@@ -3782,6 +3778,16 @@ label{
 .html-widget-margin-bottom{
 	margin-bottom:40px;
 }
+.alert-24-style{
+	height:61px;
+	width:85.9%;
+}
+.p-bloc-54-style{
+	width:100%;
+}
+.tabla{
+	margin-bottom:40px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -4274,9 +4280,6 @@ label{
 	}
 	.txt24white{
 		text-align:center;
-	}
-	.field-0-bloc-12-margin-top{
-		margin-top:0px;
 	}
 	.bloc-bloc-20-margin-top{
 		margin-top:0px;
@@ -4882,10 +4885,10 @@ label{
 		width:28.5%;
 	}
 	.img-107-margin-top{
-		margin-top:-21px;
+		margin-top:-51px;
 	}
 	.img-icon-2-margin-top{
-		margin-top:-24px;
+		margin-top:-20px;
 	}
 	.img-8-icon-2-margin-top{
 		margin-top:-30px;
@@ -5013,6 +5016,15 @@ label{
 	}
 	.bloc-25357-margin-top{
 		margin-top:20px;
+	}
+	.container-div-bloc-88-margin-top{
+		margin-top:70px;
+	}
+	.bloc-bloc-88-margin-top{
+		margin-top:0px;
+	}
+	.img-8-margin-top{
+		margin-top:0px;
 	}
 	
 }
@@ -5176,9 +5188,6 @@ label{
 	.p-bloc-12-margin-bottom{
 		width:100%;
 		margin-left:0px;
-	}
-	.field-bloc-12-margin-top{
-		margin-top:17px;
 	}
 	.btn-salir-style{
 		width:100%;
@@ -5776,10 +5785,12 @@ label{
 		margin-top:-11px;
 	}
 	.img-bloc-88-margin-top{
-		margin-top:-311px;
+		padding-top:30px;
+		margin:0px 0px 0px 0px;
 	}
 	.img-121-margin-top{
-		margin-top:-201px;
+		padding-top:60px;
+		margin:0px 0px 0px 0px;
 	}
 	.btn-184-style{
 		width:100%;
@@ -6138,6 +6149,22 @@ label{
 	}
 	.h3-160-margin-top{
 		margin-top:25px;
+	}
+	.input{
+	}
+	.field-0-margin-top{
+		margin-top:18px;
+	}
+	.bloc-bloc-78-margin-top{
+		margin-top:-286px;
+	}
+	.bloc-25015-margin-top{
+	}
+	.bloc-bloc-88-margin-top{
+		margin-top:-500px;
+	}
+	.bloc-0-bloc-88-margin-top{
+		padding-left:30px;
 	}
 	
 }
